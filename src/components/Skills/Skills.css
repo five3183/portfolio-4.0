@@ -1,0 +1,69 @@
+@keyframes bounce {
+  0%{
+     opacity: 0;
+     transform: translateY(-300%);
+  }
+  40% {
+     transform: translateY(0);
+  }
+  50% {
+     transform: translateY(-5px);
+  }
+  60% {
+     transform: translateY(3px);
+  }
+  70% {
+     transform: translateY(-3px);
+  }
+  80%{
+     transform: translateY(1px);
+  }
+  90%{
+     transform: translateY(-1px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateY(0);
+
+  }
+}
+.skills-list {
+  color:#3779e5;
+}
+.skills-list .languages {
+  opacity: 0;
+  animation: bounce 1.5s forwards;
+}
+.skills-list .cheat-codes {
+  opacity: 0;
+  animation: bounce 1.5s forwards;
+  animation-delay: .5s;
+}
+.skills-list .front-frameworks {
+  opacity: 0;
+  animation: bounce 1.5s forwards;
+  animation-delay: 1s;
+
+}
+.skills-list .back-frameworks {
+  opacity: 0;
+  animation: bounce 1.5s forwards;
+  animation-delay: 1.5s;
+
+}
+.skills-list .database {
+  opacity: 0;
+  animation: bounce 1.5s forwards;
+  animation-delay: 2s;
+
+}
+.skills-list .js-library {
+  opacity: 0;
+  animation: bounce 1.5s forwards;
+  animation-delay: 2.5s;
+
+}
+.skills-list ul li:hover {
+  color: white;
+  background-color: #3779e5;
+}

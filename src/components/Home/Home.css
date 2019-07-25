@@ -1,0 +1,27 @@
+i {
+  font-size:40px;
+  color: whitesmoke;
+}
+
+#landing {
+  height:100vh;
+  background-image: url('../../assets/images/wood.jpg');
+  background-size: cover;
+  color: whitesmoke; 
+}
+
+#landing h1 {
+  padding: 30px;
+}
+
+.resume a {
+  text-decoration: none;
+  color: white;
+  width: 100px;
+  font-size:25px;
+}
+
+.resume a:hover {
+  text-decoration: none;
+  color: #3779e5;
+}

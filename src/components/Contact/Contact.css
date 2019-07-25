@@ -1,0 +1,8 @@
+i:hover {
+  transform: scale(1.2);
+  color:#3779e5;
+}
+
+.row .justify-content-center .mt-5 i {
+  font-size: 75px;
+}
