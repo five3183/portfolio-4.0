@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee7c035f.chunk.css",
+    "main.css": "/static/css/main.1b65fac1.chunk.css",
     "main.js": "/static/js/main.81d020ca.chunk.js",
     "main.js.map": "/static/js/main.81d020ca.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -9,10 +9,10 @@
     "static/js/2.4b064630.chunk.js": "/static/js/2.4b064630.chunk.js",
     "static/js/2.4b064630.chunk.js.map": "/static/js/2.4b064630.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0d073d2840052103e2805df9c467b35a.js": "/precache-manifest.0d073d2840052103e2805df9c467b35a.js",
+    "precache-manifest.c1a7189f9406917f66d979d7261e4027.js": "/precache-manifest.c1a7189f9406917f66d979d7261e4027.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.df9ef6f4.chunk.css.map": "/static/css/2.df9ef6f4.chunk.css.map",
-    "static/css/main.ee7c035f.chunk.css.map": "/static/css/main.ee7c035f.chunk.css.map",
+    "static/css/main.1b65fac1.chunk.css.map": "/static/css/main.1b65fac1.chunk.css.map",
     "static/media/bamazon.png": "/static/media/bamazon.0929cec6.png",
     "static/media/clicky-game.png": "/static/media/clicky-game.2afd9762.png",
     "static/media/crypto-cronies.png": "/static/media/crypto-cronies.ecbe56d0.png",
