@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c4a7e30144e20b8fb44537559a57b21",
+    "revision": "9c4b9696281a99634916a51ea820ae9d",
     "url": "/index.html"
   },
   {
-    "revision": "104b6ff53f2f9c6108a4",
+    "revision": "4773096f1e67d6b449fd",
     "url": "/static/css/2.df9ef6f4.chunk.css"
   },
   {
-    "revision": "2ddff2b249a795ef48c1",
-    "url": "/static/css/main.1b65fac1.chunk.css"
+    "revision": "4f748bdc580aa27697b4",
+    "url": "/static/css/main.fec7882b.chunk.css"
   },
   {
-    "revision": "104b6ff53f2f9c6108a4",
-    "url": "/static/js/2.4b064630.chunk.js"
+    "revision": "4773096f1e67d6b449fd",
+    "url": "/static/js/2.210dd42e.chunk.js"
   },
   {
-    "revision": "2ddff2b249a795ef48c1",
-    "url": "/static/js/main.81d020ca.chunk.js"
+    "revision": "4f748bdc580aa27697b4",
+    "url": "/static/js/main.aa81be8c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -30,22 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2afd9762da9ba59eb616963960c78f79",
     "url": "/static/media/clicky-game.2afd9762.png"
-  },
-  {
-    "revision": "ecbe56d06c28a3e991c186cc0573bfae",
-    "url": "/static/media/crypto-cronies.ecbe56d0.png"
-  },
-  {
-    "revision": "cb9fe0219eb8f018221491b6fd1aca26",
-    "url": "/static/media/crystal-collector.cb9fe021.png"
-  },
-  {
-    "revision": "c3b9dab5bdccf3ec910122612aa4106f",
-    "url": "/static/media/eat-da-burger.c3b9dab5.png"
-  },
-  {
-    "revision": "3eb510c62403a36e6c7952075856df49",
-    "url": "/static/media/friend-finder.3eb510c6.png"
   },
   {
     "revision": "8380dc761b57c19630f3fbee847f6dd5",
@@ -62,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b05fcd9af8556785582d9fb51b9517f",
     "url": "/static/media/ppp.6b05fcd9.png"
-  },
-  {
-    "revision": "19673dbfa6e43ea98db9668226f9b224",
-    "url": "/static/media/psychic-game.19673dbf.png"
   },
   {
     "revision": "409564b3fdb7afbb72e599c824a8dbc4",
