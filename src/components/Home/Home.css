@@ -18,10 +18,34 @@ i {
   text-decoration: none;
   color: white;
   width: 100px;
-  font-size:25px;
+  font-size:20px;
 }
 
 .resume a:hover {
   text-decoration: none;
   color: #3779e5;
+}
+
+#resume a:hover{
+  display: inline-block;
+  transform: scale(1.2);
+}
+
+hr {
+  box-shadow: 0 0 10px 2px #3779e5;
+  width: 20%;
+  margin-top: 20px;
+}
+
+
+@media screen and (max-width: 414px) {
+  hr {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  hr {
+    width: 30%;
+  }
 }

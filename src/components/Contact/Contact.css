@@ -6,3 +6,15 @@ i:hover {
 .row .justify-content-center .mt-5 i {
   font-size: 75px;
 }
+
+@media screen and (max-width: 360px) {
+  #call-to-action {
+    font-size: 85%;
+  }
+}
+
+@media screen and (max-width: 396px) {
+  #call-to-action {
+    font-size: 70%;
+  }
+}

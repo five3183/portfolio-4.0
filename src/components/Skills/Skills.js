@@ -7,9 +7,10 @@ export default class Skills extends Component {
     return (
       <div className="container text-center" id="landing">
         <div className="row justify-content-center">
-          <h1>Coding Skills Used</h1>
+          <h2>Coding Skills</h2>
         </div>
-        <div className="row justify-content-center mt-3 skills-list">
+        <hr></hr>
+        <div className="row justify-content-center mt-5 skills-list">
           <ul className="list-group list-group-horizontal languages">
             <li className="list-group-item">HTML</li>
             <li className="list-group-item">CSS</li>

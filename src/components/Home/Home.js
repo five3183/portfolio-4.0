@@ -9,8 +9,9 @@ export default class Home extends Component {
       <div className="container text-center" id="landing">
         <h1>Matthew Curran</h1>
         <h4>Full Stack Developer</h4>
+        <hr></hr>
         <div className="row text-left justify-content-center mt-3">
-          <div className="col-6 mt-5">
+          <div className="col-sm-10 col-md-6 col-lg-4 mt-3">
             <p>Ensuring the job is done right the first time by working smart and hard. Be adaptable as you never know what to expect.  Regardless of what you are doing, maintain integrity.</p>
           </div>
         </div>
@@ -21,7 +22,7 @@ export default class Home extends Component {
             </a>
           </span>
         </div>
-        <div className="mt-5" id="resume">
+        <div className="mt-3" id="resume">
           <span className="resume"><a href={resume}>RESUME</a></span>
         </div>
       </div>
